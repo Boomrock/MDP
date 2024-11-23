@@ -8,20 +8,99 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c43ae2fa3625f8e6",
+            "id": "8b0288966b56f13d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "558f6a19f7d6853f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Алгоритм обработки данных от ML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Алгоритм обработки данных от ML"
+            }
+          },
+          {
+            "id": "4e614bf004f3295b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритм обработки данных от ML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Алгоритм обработки данных от ML"
+            }
+          },
+          {
+            "id": "53493b314d836157",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-23 18.43.01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-23 18.43.01.excalidraw"
+            }
+          },
+          {
+            "id": "4fef8c1d325e5926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Псевдокод алгоритма.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Псевдокод алгоритма"
+            }
+          },
+          {
+            "id": "def55384dd0502fc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-23 18.43.01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-23 18.43.01.excalidraw"
+            }
+          },
+          {
+            "id": "c9cc825cb6a1d0fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Описание алгоритма от саши.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Описание алгоритма от саши"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -52,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:Excalidraw  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,9 +238,26 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "7ffd704707cb13a8",
-  "lastOpenFiles": []
+  "active": "4fef8c1d325e5926",
+  "lastOpenFiles": [
+    "Pasted image 20241123195324.png",
+    "Описание алгоритма от саши.md",
+    "Алгоритм агрегации интервалов и генерации меток GPT.md",
+    "Алгоритм обработки данных от ML.md",
+    "Excalidraw/Drawing 2024-11-23 18.43.01.excalidraw.md",
+    "Pasted image 20241123193228.png",
+    "Псевдокод алгоритма.md",
+    "Excalidraw/Drawing 2024-11-23 18.05.08.excalidraw.md",
+    "Без названия.canvas",
+    "Pasted image 20241123192935.png",
+    "Pasted image 20241123193034.png",
+    "Excalidraw/Drawing 2024-11-23 18.13.49.excalidraw.md",
+    "Excalidraw",
+    "README.md",
+    "User Story, User Requirements и Use Case.md"
+  ]
 }
