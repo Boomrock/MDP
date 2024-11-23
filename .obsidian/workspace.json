@@ -51,18 +51,6 @@
             "id": "53493b314d836157",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Алгоритм агрегации меток/Excalidraw/Drawing 2024-11-23 18.43.01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-23 18.43.01.excalidraw"
-            }
-          },
-          {
-            "id": "4fef8c1d325e5926",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Алгоритм агрегации меток/Псевдокод алгоритма.md",
@@ -100,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,16 +230,17 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "4fef8c1d325e5926",
+  "active": "53493b314d836157",
   "lastOpenFiles": [
-    "README.md",
+    "Алгоритм агрегации меток/Pasted image 20241123204409.png",
+    "Алгоритм агрегации меток/Описание алгоритма от саши.md",
     "Алгоритм агрегации меток/Алгоритм агрегации интервалов и генерации меток GPT.md",
-    "Алгоритм агрегации меток",
+    "Алгоритм агрегации меток/Excalidraw/Drawing 2024-11-23 18.43.01.excalidraw.md",
     "Алгоритм агрегации меток/Псевдокод алгоритма.md",
     "Алгоритм агрегации меток/Pasted image 20241123195324.png",
-    "Алгоритм агрегации меток/Описание алгоритма от саши.md",
+    "README.md",
+    "Алгоритм агрегации меток",
     "Алгоритм агрегации меток/Алгоритм обработки данных от ML.md",
-    "Алгоритм агрегации меток/Excalidraw/Drawing 2024-11-23 18.43.01.excalidraw.md",
     "Pasted image 20241123193228.png",
     "Excalidraw/Drawing 2024-11-23 18.05.08.excalidraw.md",
     "Без названия.canvas",
